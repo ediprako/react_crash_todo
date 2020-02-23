@@ -1,13 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="496f9107-87de-40d7-972b-4c92370f71e6" name="Default Changelist" comment="" />
+    <list default="true" id="496f9107-87de-40d7-972b-4c92370f71e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddTodo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XqcTSXIpnHk3YRkBoKLNEyphiE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,10 +41,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -37,5 +65,27 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581779431838">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="213" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1581779431838" />
+    <state x="45" y="150" width="860" height="814" key="CommitChangelistDialog2" timestamp="1581923148477">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="45" y="150" width="860" height="814" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1581923148477" />
+    <state x="737" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1581859750194">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="737" y="300" width="424" height="520" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1581859750194" />
+    <state x="128" y="284" width="704" height="538" key="find.popup" timestamp="1581842073568">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="128" y="284" width="704" height="538" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1581842073568" />
+    <state x="143" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1581923167741">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="143" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1581923167741" />
   </component>
 </project>
